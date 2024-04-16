@@ -1,0 +1,60 @@
+.upload{
+    background-color:#34deeb;
+}
+.allBoxes{
+    height:30px;
+    width:50px;
+    font-size:18px;
+    text-align: center;
+    color:white;
+}
+.qualified{
+    background-color:#52eb34;
+}
+.rectified{
+    background-color:#eb343d;
+}
+.disqualified{
+    background-color:#346beb;
+}
+.valid{
+    background-color:#cf34eb;
+}
+.tbd{
+    background-color:#eb34c6;
+}
+.zb{
+    background-color:#eb5e34;
+}
+.e_rejected{
+    background-color:#34eb95;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom:20px;
+}
+.heading{
+    font-size:30px;
+    font-weight:700;
+    font-family:"Roboto";
+    color:black;
+    margin-left:30px;
+}
+.input-element{
+    height:40px;
+    width:200px;
+    margin-right:40px;
+}
+.add-button{
+    color:white;
+    background-color: #34deeb;
+    padding:8px;
+    margin-right:10px;
+    font-size:20px;
+    border-radius: 5px;
+    border-width:0px;
+
+}
